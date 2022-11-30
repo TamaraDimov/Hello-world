@@ -1,4 +1,3 @@
-Hello-world-project
 {
   "extends": ["stylelint-config-standard"],
   "plugins": ["stylelint-scss", "stylelint-csstree-validator"],
