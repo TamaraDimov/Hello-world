@@ -37,9 +37,18 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+Hello-world-project
+    
+    - [Key Features](#key-features)
+ 
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+ 
+
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+master
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -51,26 +60,42 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello world] <a name="about-project"></a>
 
+Hello-world-project
+> Set up a "Hello world" repository and make sure to document your work in a professional way, using the right tools and forms.
+
+## 🛠 Built With <a name="built-with"></a>
+
 > In this project, you will set up a "Hello world" repository and arrange in a professional way.
 
 ## 🛠 Built With <a name="built-with"></a>
 
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
+
+- [ ] **[.gitignore file]**
+> A . gitignore file is a plain text file where each line contains a pattern for files/directories to ignore
+- [ ] **[linters.yml]**
+> A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs
 
 - **[Linters]**
 > A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs
 - **[.gitignore]**
 >Specifies intentionally untracked files to ignore
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+Hello-world-project
+> Simply by cloning the repository folder in your local machine you can do any modification or explore try this project. Good luck!
 
 > Simply by cloning the repository folder in your local machine you can do any modification or explore this project. Good luck!
+
 
 To get a local copy up and running, follow these steps.
 
@@ -78,6 +103,9 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 https://github.com/TamaraDimov/Hello-world.git
+
+
+
 
 <!--
 Example commands:
@@ -87,18 +115,28 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
+
+
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
+
+> Tamara Dimov
+
+👤 **Author1**
+
+- GitHub: [@TamaraDimov](https://github.com/githubhandle)
+- Twitter: [@DimovTamara](https://twitter.com/DimovTamara)
 👤 **Author**
 
 - GitHub: [@TamaraDimov](https://github.com/TamaraDimov)
 - Twitter: [@DimovTamara](https://twitter.com/home)
+
 - LinkedIn: [Tamara Dimov](https://www.linkedin.com/in/tamara-dimov-b85139a2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
